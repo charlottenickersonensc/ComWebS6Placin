@@ -37,7 +37,8 @@ function Home() {
         <button>Pages Professeurs</button>
       </div>
     );
-  }
+  } 
+  
 
   return (
     <div className="container">
